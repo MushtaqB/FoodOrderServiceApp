@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "FoodOrderServiceApp",
+    "packageName": "com.mushtaq.poc",
+    "packageFolder": "com/mushtaq/poc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "YTU2NDliZDEwZmI0NTM0MTZkMDIyOWExMWJmYzdkMmIzMDU2ZTg4MjlmYmJhZmNkYmQ3MDE2NmJhMDE4ZjM2NTBiYzBmYWMyNGIyOTU3OGNiMjM3ZjcxYTM5ZDdjNDdjYTcyYWYzY2MwMGYyMDIxNGFhYmQyNDFjZDAxNjI5NTk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "MushtaqB",
+  "repository-name": "FoodOrderServiceApp"
+}
